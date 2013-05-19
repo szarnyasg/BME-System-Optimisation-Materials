@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sun May 19 19:18:43 CEST 2013
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=megbizhato-halozatok-tervezese.tex
+outputFile=megbizhato-halozatok-tervezese.pdf
+langSpell=hu
+markDer=true
+srcDir=
