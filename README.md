@@ -1,4 +1,4 @@
 BUTE-System-Optimisation-Materials
 ==================================
 
-Materials for the System Optimisation (BMEBMEVISZM117) exam.
+Materials for the System Optimisation (BMEVISZM117) exam.
